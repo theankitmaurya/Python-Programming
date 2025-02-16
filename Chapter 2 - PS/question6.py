@@ -2,6 +2,10 @@
 
 a = int(input("Enter the number: "))
 
-b = a * a
+b = a * a # first method ✅
+
+b = a ** 2 # second method ✅
+
+# b = a ^ 2 # third method ❌
 
 print("The square of the number is:", b)
