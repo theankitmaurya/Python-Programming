@@ -10,3 +10,4 @@ if (total_percentage >= 40 and marks1 >= 33 and marks2 >= 33 and marks3 >= 33):
     print("You are passed! and your percentage is: ", total_percentage, "%")
 else:
     print("You are failed and your percentage is: ", total_percentage, "%")
+
