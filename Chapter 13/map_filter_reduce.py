@@ -25,3 +25,4 @@ mul = lambda x,y : x * y
 
 print(reduce(sum, l))
 print(reduce(mul, l))
+
